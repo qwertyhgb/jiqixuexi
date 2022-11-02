@@ -1,0 +1,12 @@
+
+ipython:S117"SRename this parameter "dataSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(é‚Ýx
+xpython:S117"\Rename this local variable "squaredDiff" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÎ•÷úÿÿÿÿ
+spython:S117"\Rename this local variable "squaredDist" to match the regular expression ^[_a-z][a-z0-9_]*$.(èËÞ…
+dpython:S1542"MRename function "calcDis" to match the regular expression ^[a-z_][a-z0-9_]*$.(é‚Ýx
+opython:S117"SRename this parameter "dataSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(œ—­—ùÿÿÿÿ
+vpython:S117"_Rename this local variable "minDistIndices" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹ôÚ“
+tpython:S117"]Rename this local variable "newCentroids" to match the regular expression ^[_a-z][a-z0-9_]*$.(öæÓ¡
+jpython:S117'"SRename this parameter "dataSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(„Ý„™
+{python:S1175"_Rename this local variable "minDistIndices" to match the regular expression ^[_a-z][a-z0-9_]*$.(³î—Ïúÿÿÿÿ
+tpython:S117,"]Rename this local variable "newCentroids" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë·ÊÙ
+jpython:S1542?"SRename function "createDataSet" to match the regular expression ^[a-z_][a-z0-9_]*$.(”‘ÑW
